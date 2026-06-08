@@ -64,10 +64,6 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 > Calculadoras estatísticas interativas (Distribuição Binomial + Teste de Hipótese com P-Valor) — trabalho de Inferência da Fatec  
 > `HTML` `CSS` `JavaScript`
 
-### [Nhandeara](https://github.com/LeonardoSigolo/Nhandeara)
-> Site institucional com foco em design e responsividade  
-> `CSS` `HTML`
-
 ---
 
 ## 📊 GitHub Stats
