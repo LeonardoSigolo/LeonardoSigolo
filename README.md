@@ -65,12 +65,6 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 > `HTML` `CSS` `JavaScript`
 
 ---
- 
-## 🏆 GitHub Trophies
- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=LeonardoSigolo&theme=tokyonight&no-frame=true&row=1&column=6)
- 
----
 
 ## 📅 Streak
 
