@@ -65,16 +65,12 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 > `HTML` `CSS` `JavaScript`
 
 ---
-
+ 
 ## 📊 GitHub Stats
  
-<div align="center">
 ![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoSigolo&show_icons=true&theme=tokyonight&hide_border=true)
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSigolo&layout=compact&theme=tokyonight&hide_border=true)
  
-</div>
-
 ---
 
 ## 📅 Streak
