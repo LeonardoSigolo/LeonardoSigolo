@@ -90,11 +90,10 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 
 ## 🎯 Atualmente
 
-- 📚 Cursando **ADS @ Fatec Itapetininga** (3º semestre)
+- 📚 Cursando **ADS @ Fatec Itapetininga** (4º semestre)
 - 🏗️ Buildando o **TaskFlow** — meu SaaS de gerenciamento de tarefas
 - 💼 Vendendo sistemas de gestão para negócios locais em Itapetininga
 - 🌐 Buscando minha primeira oportunidade no **mercado remoto internacional**
-- 🤖 Experimentando com ferramentas de IA para dev (Claude Code, Ollama, Qwen)
 
 ---
 
@@ -104,7 +103,7 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-sigolo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeonardoSigolo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardosigolo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.sigolo1037@gmail.com)
 
 </div>
 
