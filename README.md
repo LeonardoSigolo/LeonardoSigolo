@@ -67,13 +67,12 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoSigolo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSigolo&layout=compact&theme=tokyonight&hide_border=true)
-
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoSigolo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&rank_icon=github)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSigolo&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8)
+ 
 </div>
 
 ---
