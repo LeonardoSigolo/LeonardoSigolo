@@ -66,10 +66,9 @@ Meu objetivo é entrar no **mercado internacional de desenvolvimento remoto**, e
 
 ---
  
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
  
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoSigolo&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSigolo&layout=compact&theme=tokyonight&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=LeonardoSigolo&theme=tokyonight&no-frame=true&row=1&column=6)
  
 ---
 
